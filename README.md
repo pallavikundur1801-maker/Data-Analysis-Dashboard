@@ -7,8 +7,11 @@ The Vrinda Store Wants to Create an annual Sales report for 2022.so that,owner o
 
 ## Question (KPI's)
 -Compare the sales and orders using single charts.
+
 -Which month got the highest sales and orders?
+
 -Who purchased more item men or women?
+
 -What are different order status in 2022?
 -list Top states contributing the sales?
 -Relation between age and gender based on number of orders.
@@ -16,4 +19,4 @@ The Vrinda Store Wants to Create an annual Sales report for 2022.so that,owner o
 -Highest selling Category
 -Percentage of Total orders delivered
 
-=Dashboard Interaction
+-Dashboard Interaction <a href="https://github.com/pallavikundur1801-maker/Data-Analysis-Dashboard/blob/main/Screenshot%202026-03-18%20161909.png">View dashboard</a>
